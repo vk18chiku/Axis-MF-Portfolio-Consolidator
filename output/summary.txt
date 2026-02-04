@@ -1,0 +1,17 @@
+================================================================================
+PORTFOLIO CONSOLIDATION SUMMARY
+================================================================================
+AMC Name: Axis Mutual Fund
+Reporting Date: 2025-12-31
+Total Schemes: 87
+
+EQUITY HOLDINGS:
+  Total Holdings: 3709
+  Unique Instruments: 805
+  Schemes with Equity: 48
+
+DEBT HOLDINGS:
+  Total Holdings: 1604
+  Unique Instruments: 891
+  Schemes with Debt: 51
+================================================================================
