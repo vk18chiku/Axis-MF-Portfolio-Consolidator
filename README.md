@@ -225,17 +225,9 @@ python download_portfolio.py  # Select option 3
 ## 📧 Contact
 
 For questions or clarifications about this implementation:
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [uttam.2023ug4003@iiitranchi.ac.in]
 
 ---
 
-## 📄 License
 
-This project is submitted as part of Qonfido Data Analytics Intern Assignment.
 
----
-
-**Submission Date**: February 3, 2026  
-**Deadline**: 2 days from assignment date  
-**Status**: ✅ Complete
